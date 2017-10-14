@@ -108,3 +108,5 @@ TextGameFramework\.IO/obj/
 *.cache
 
 TextGameFramework\.IO\.Tests/obj/
+
+TextGameFramework\.IO\.Tests/bin/Debug/netcoreapp2\.0/
