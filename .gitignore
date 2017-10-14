@@ -86,3 +86,21 @@ FakesAssemblies/
 Thumbs.db
 
 \.vscode/
+
+*.pdb
+
+TextGameFramework\.Core/bin/
+
+TextGameFramework\.Core/obj/
+
+TextGameFramework\.Ensure/bin/
+
+TextGameFramework\.Ensure/obj/
+
+TextGameFramework\.Ensure\.Tests/bin/
+
+TextGameFramework\.Ensure\.Tests/obj/
+
+TextGameFramework\.IO/bin/
+
+TextGameFramework\.IO/obj/

@@ -1,8 +1,0 @@
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/bin/Debug/netstandard2.0/TextGameFramework.IO.deps.json
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/bin/Debug/netstandard2.0/TextGameFramework.IO.dll
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/bin/Debug/netstandard2.0/TextGameFramework.IO.pdb
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/obj/Debug/netstandard2.0/TextGameFramework.IO.csproj.CoreCompileInputs.cache
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/obj/Debug/netstandard2.0/TextGameFramework.IO.AssemblyInfoInputs.cache
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/obj/Debug/netstandard2.0/TextGameFramework.IO.AssemblyInfo.cs
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/obj/Debug/netstandard2.0/TextGameFramework.IO.dll
-/home/doctor/Programs/C#/TextGameFramework/TextGameFramework.IO/obj/Debug/netstandard2.0/TextGameFramework.IO.pdb
