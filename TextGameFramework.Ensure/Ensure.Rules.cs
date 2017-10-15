@@ -10,7 +10,7 @@ namespace TextGameFramework.Ensure
     public static partial class Ensure
     {       
         /// <summary>
-        /// This functions ensures that value is positive
+        /// This function ensures that input value is positive
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -22,7 +22,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that value is negative
+        /// This function ensures that input value is negative
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -34,7 +34,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that value is nonnegative
+        /// This function ensures that input value is nonnegative
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -46,7 +46,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that value is nonpositive
+        /// This function ensures that input value is nonpositive
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -58,7 +58,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that input string is not null or empty
+        /// This function ensures that the input string is not null or empty
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -70,7 +70,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that the input file exists
+        /// This function ensures that the input file exists
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
@@ -82,7 +82,7 @@ namespace TextGameFramework.Ensure
         }
 
         /// <summary>
-        /// This functions ensures that the input variable is not null
+        /// This function ensures that the input variable is not null
         /// </summary>
         /// <param name="valueName">Name of the variable being checked.</param>
         /// <param name="value">Actual value of the variable being checked.</param>
